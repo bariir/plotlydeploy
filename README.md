@@ -13,19 +13,19 @@ Roza who is a biological researcher on a prominent microbiology laboratory is st
 Roza’s goal is to identify top 10 bacterial species (OTUs) in the volunteers’ belly buttons when an individual’s ID is selected from the dropdown menu on the webpage. 
 
 - The dropdown menu will display the individual id numbers and demographic information when you select the test subject id. This selection will dynamically reflect to the rest of the visualization charts.<br>
- ![ Test IDs Dropdown Menu](/static/images/dropdown_menu.png)<br>
+ ![Test IDs Dropdown Menu](/static/images/dropdown_menu.png)<br>
 
 
 - The horizontal bar chart will display the sample values, the bacterial species (OTUs) and the labels as the hover text for the bars on the chart.<br>
-![ Top 10 Bacteria Bar Chart](/static/images/TopTenBacteriaBarChart.png)<br>
+![Top 10 Bacteria Bar Chart](/static/images/TopTenBacteriaBarChart.png)<br>
 
--The gauge chart displays the weekly washing frequency’s value, and displays the value as a measure from 0 to 10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu. <br>
-![ Belly Button Washing Frequency Gauage](/static/images/Gauage_BellyButtonWashingFrequency.png)<br>
+- The gauge chart displays the weekly washing frequency’s value, and displays the value as a measure from 0 to 10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu. <br>
+![Belly Button Washing Frequency Gauage](/static/images/Gauage_BellyButtonWashingFrequency.png)<br>
 
--The bubble chart will display the OTU ID values on the x-axis, the sample values on the y-axis, the sample values as the marker size, Ids as the marker colors and the labels s the hover-text values.<br>
+- The bubble chart will display the OTU ID values on the x-axis, the sample values on the y-axis, the sample values as the marker size, Ids as the marker colors and the labels s the hover-text values.<br>
 ![ Bacterial Cultures Per Sample Bubble Chart](/static/images/BubbleChart_BacterialCultuersPerSample.png)<br>
 
--Custom dashboard that displays all the dynamic charts including dropdown menu, top 10 bacteria bar chart, bubble chart and gauge chart. It also has image background and additional titles as well as white font on the jumbotron<br>
+- Custom dashboard that displays all the dynamic charts including dropdown menu, top 10 bacteria bar chart, bubble chart and gauge chart. It also has image background and additional titles as well as white font on the jumbotron<br>
 ![ Custom Dashboard](/static/images/ custom_dashboard.png)<br>
 
 
