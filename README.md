@@ -3,7 +3,7 @@
 
 ## Overview of Belly Button Biodiversity
 
-Roza who is a biological researcher on a prominent microbiology laboratory is studying Belly Button biodiversity and wants to create dynamic visualization charts tell her research story and present the findings in a website that is a available to the public such as GitHub pages. She created three dynamic charts including a Horizontal Bar chart, a Bubble chart, and a Gauge chart. She has complete panel for demographic information and wants to visualize the bacterial data for each volunteer.
+Roza who is a biological researcher on a prominent microbiology laboratory is studying Belly Button biodiversity and wants to create dynamic visualization charts that tell her research story in a dynamic way. She wants to present her findings on a website that is a available to the public such as GitHub pages. She created three dynamic charts including a Horizontal Bar chart, a Bubble chart, and a Gauge chart. She has complete panel for demographic information and wants to visualize the bacterial data for each volunteer.
 
 ## Tools and Software: 
 - JavaScript, HTML, CSS, Bootstrap, Visual Studio Code 1.68.1, Git Bash to commit changes into GitHub Repository, GitHub Pages, D3 and Plotly. 
