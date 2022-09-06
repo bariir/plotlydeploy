@@ -30,13 +30,13 @@ Rozaâ€™s goal is to identify top 10 bacterial species (OTUs) in the volunteersâ€
 
 
 ## Links to images:
-Test IDs Dropdown Menu:![ dropdown_menu.png]( https://github.com/bariir/plotlydeploy/tree/main/static/images/dropdown_menu.png?raw=true)
+Test IDs Dropdown Menu:![ dropdown_menu.png]( https://github.com/bariir/plotlydeploy/tree/main/static/images/dropdown_menu.png?raw=true)<br>
 
-Top 10 Bacteria Bar Chart:![ TopTenBacteriaBarChart.png]( https://github.com/bariir/plotlydeploy/tree/main/static/images/ TopTenBacteriaBarChart.png?raw=true)
+Top 10 Bacteria Bar Chart:![ TopTenBacteriaBarChart.png]( https://github.com/bariir/plotlydeploy/tree/main/static/images/ TopTenBacteriaBarChart.png?raw=true)<br>
 
-Belly Button Washing Frequency Gauage:![ Gauage_BellyButtonWashingFrequency.png]( https://github.com/bariir/plotlydeploy/tree/main/static/images/ Gauage_BellyButtonWashingFrequency.png?raw=true)
+Belly Button Washing Frequency Gauage:![ Gauage_BellyButtonWashingFrequency.png]( https://github.com/bariir/plotlydeploy/tree/main/static/images/ Gauage_BellyButtonWashingFrequency.png?raw=true)<br>
 
-Bacterial Cultures Per Sample Bubble Chart:![ BubbleChart_BacterialCultuersPerSample.png]( https://github.com/bariir/plotlydeploy/tree/main/static/images/ BubbleChart_BacterialCultuersPerSample.png?raw=true)
+Bacterial Cultures Per Sample Bubble Chart:![ BubbleChart_BacterialCultuersPerSample.png]( https://github.com/bariir/plotlydeploy/tree/main/static/images/ BubbleChart_BacterialCultuersPerSample.png?raw=true)<br>
 
 Custom Dashboard:![ custom_dashboard.png]( https://github.com/bariir/plotlydeploy/tree/main/static/images/ custom_dashboard.png?raw=true)
 
